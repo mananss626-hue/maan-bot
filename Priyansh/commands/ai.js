@@ -9,7 +9,7 @@ version: "2.0.2",
 
 hasPermssion: 0,
 
-credits: "Raj",
+credits: "Manan",
 
 description: "Naughty AI boyfriend vampire",
 
